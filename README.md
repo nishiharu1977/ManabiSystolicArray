@@ -18,7 +18,7 @@ Such arrays appear in AI accelerators and NPUs from major tech companies; here w
 | | |
 |---|---|
 | **Conceptual view** | **Practical implementation (with control logic)**<br>*RISC-V is used purely as a design exercise.* |
-| <img src="https://github.com/nishiharu1977/ManabiSystolicArray/blob/main/image/SA_zu.jpg?raw=true" alt="Conceptual Array" width="300"/> | <img src="https://github.com/rmbmp717/ManabiSystolicArray/blob/main/image/SA_zu2.jpg?raw=true" alt="Practical Array" width="300"/> |
+| <img src="https://github.com/nishiharu1977/ManabiSystolicArray/blob/main/image/SA_zu.jpg?raw=true" alt="Conceptual Array" width="300"/> | <img src="https://github.com/nishiharu1977/ManabiSystolicArray/blob/main/image/SA_zu2.jpg?raw=true" alt="Practical Array" width="300"/> |
 
 ---
 
